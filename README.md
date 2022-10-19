@@ -1,6 +1,6 @@
 ﻿# HTTP 5112 Assignment 2
 
-List of functions in [/Controllers](HTTP5112_Assignment_2/Controllers)__
+List of functions in [/Controllers](HTTP5112_Assignment_2/Controllers)  
 Original Source: ​https://cemc.math.uwaterloo.ca/contests/computing/past_ccc_contests/2006/stage1/juniorEn.pdf
 
 ## J1. The New CCC (Canadian Calorie Counting):

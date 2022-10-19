@@ -20,9 +20,9 @@ namespace HTTP5112_Assignment_2.Controllers
         /// <return>Returns number of ways the dices can rolled the value of 10</return>
         /// <example>
         /// GET /api/J2/DiceGame/6/8 -> "There are 5 total ways to get the sum 10."
-        /// GET /api/J2/DiceGame/12/4 -> "There are 4 ways to get the sum 10."
-        /// GET /api/J2/DiceGame/3/3 -> "There are 0 ways to get the sum 10."
-        /// GET /api/J2/Dicegame/5/5 -> "There is 1 way to get the sum 10."
+        /// GET /api/J2/DiceGame/12/4 -> "There are 4 total ways to get the sum 10."
+        /// GET /api/J2/DiceGame/3/3 -> "There are 0 total ways to get the sum 10."
+        /// GET /api/J2/Dicegame/5/5 -> "There is 1 total ways to get the sum 10."
         /// </example>
         [Route("api/J2/DiceGame/{m}/{n}")]
         [HttpGet("{m}/{n}")]

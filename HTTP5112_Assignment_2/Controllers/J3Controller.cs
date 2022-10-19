@@ -15,7 +15,7 @@ namespace HTTP5112_Assignment_2.Controllers
         /// assuming that 1 second per press and 2 seconds per pause.
         /// Original Source : ​https://cemc.math.uwaterloo.ca/contests/computing/past_ccc_contests/2006/stage1/juniorEn.pdf
         /// </summary>
-        /// <param name="strMessage">the input string</param>
+        /// <param name="strMessage">The input string</param>
         /// <return>Returns the minimal number of seconds needed to type in the word</return>
         /// <example>
         /// GET /api/J3/CellPhoneMessage/a -> "The minimal number of seconds needed to type in 'a' is 1s."

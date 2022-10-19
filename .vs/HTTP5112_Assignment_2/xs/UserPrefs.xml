@@ -1,10 +1,8 @@
 ﻿<Properties StartupConfiguration="{8D6192F6-1E21-4F34-A42F-2048784ACE96}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.HTTP5112__Assignment__2 PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="HTTP5112_Assignment_2/Controllers/J2Controller.cs">
     <Files>
       <File FileName="HTTP5112_Assignment_2/Controllers/J3Controller.cs" Line="46" Column="31" />
@@ -25,5 +23,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
